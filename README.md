@@ -1,2 +1,2 @@
-# TriggerbotVal
+# Triggerbot Valorant
 Triggerbot for valorant
