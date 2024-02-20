@@ -1,0 +1,2 @@
+# TriggerbotVal
+Triggerbot for valorant
